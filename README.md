@@ -1,4 +1,4 @@
-[![Hi, I'm Kareem 👋🏻](https://github.com/kareem-khalid/kareem-khalid/blob/main/Kareem%20%20%20.gif "Kareem")]
+![Hi, I'm Kareem 👋🏻](https://github.com/kareem-khalid/kareem-khalid/blob/main/Kareem%20%20%20.gif "Kareem")
 
 ### My name is Kareem Khaled and I'm a ✨software developer✨. I'm from Egypt, living in Cairo and currently working Freelancer Mobile App Developer (Android). You can Reach me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
