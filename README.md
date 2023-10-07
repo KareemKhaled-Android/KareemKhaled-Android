@@ -1,6 +1,6 @@
 ![G'day, my name is Kareem 👋🏻]()
 
-### My name is Kareem Waly a ✨Software Engineer ✨. I'm from Cairo, Egypt. former Mobile App Developer. You can Reach me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+### My name is Kareem Waly a ✨Software Engineer ✨.  former Mobile App Developer. You can Reach me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 [1]: https://twitter.com/kareemkhaled98
