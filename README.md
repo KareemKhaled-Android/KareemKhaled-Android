@@ -1,10 +1,10 @@
-![G'day, my name is Kareem 👋🏻](https://github.com/kareem-khalid/kareem-khalid/blob/main/kareem.gif "Kareem")
+![G'day, my name is Kareem 👋🏻]()
 
-### My name is Kareem Khaled and I'm a ✨software developer✨. I'm from Egypt, living in Cairo and currently working Freelancer Mobile App Developer (Android). You can Reach me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+### My name is Kareem Waly a ✨Software Engineer ✨. I'm from Cairo, Egypt. former Mobile App Developer. You can Reach me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[1]: https://twitter.com/211_karim
-[2]: https://www.linkedin.com/in/kareem-k-2a85b5167/
+[1]: https://twitter.com/kareemkhaled98
+[2]: https://www.linkedin.com/in/kareemkhaled98/
 <!-- [![Kareem's GitHub stats](https://github-readme-stats.vercel.app/apikareemkhaled-android=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
