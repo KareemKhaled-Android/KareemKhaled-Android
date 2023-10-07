@@ -8,8 +8,7 @@
 <!-- [![Kareem's GitHub stats](https://github-readme-stats.vercel.app/apikareemkhaled-android=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-- 👨🏻‍💻 I’m currently taking a master of electrical engineering at uOttawa 
-- 🌱 I’m currently learning AI & DS 
+- 👨🏻‍💻 
 ### 
 
 <!--
