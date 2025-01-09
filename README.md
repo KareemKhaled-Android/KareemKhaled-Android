@@ -1,4 +1,4 @@
-![3] ![G'day, my name is Kareem 👋🏻]()
+![G'day, my name is Kareem 👋🏻]()
 
 ### My name is Kareem Waly a ✨Software Engineer ✨.  former Mobile App Developer. You can Reach me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
